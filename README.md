@@ -7,12 +7,12 @@ Create a mobile app in android with java that will display a list of trending mo
 
 ## MIR:
 
-API themoviedb.org (https://developers.themoviedb.org/3/trending/get-trending)
-User Android API target 28
-Volley for API consumption 
-Glide for image download and caching
-Two activities (All movies, movie detail)
-Use Fragments
-Use Constraint Layouts
-Use RecyclerView for lists
-Use Room, ViewModel and LiveData to handle data
+### API themoviedb.org (https://developers.themoviedb.org/3/trending/get-trending)
+### User Android API target 28
+### Volley for API consumption 
+### Glide for image download and caching
+### Two activities (All movies, movie detail)
+### Use Fragments
+### Use Constraint Layouts
+### Use RecyclerView for lists
+### Use Room, ViewModel and LiveData to handle data
