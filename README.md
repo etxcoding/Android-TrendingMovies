@@ -1,5 +1,5 @@
 # TrendingMovies
-One of my first android practices, go to README file.
+One of my first android practices, please read below to find out what the app needs to do and use, feel free to try to develop it before watching at the code.
 
 ## Use Case:
 
