@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TrendingMovies</string>
+    <string name="app_name">Trending Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Trending Movies</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search…</string>
 </resources>
